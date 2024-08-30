@@ -29,6 +29,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&&theme=tokyonight" alt="Manish9322" /></p>
 
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Manish9322.Manish9322" alt="Visitor Count" />
+</p>
+
 
 <!---
 Manish9322/Manish9322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
