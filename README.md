@@ -33,6 +33,11 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Manish9322.Manish9322" alt="Visitor Count" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manish9322&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+
 
 <!---
 Manish9322/Manish9322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
