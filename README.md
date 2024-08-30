@@ -78,7 +78,7 @@
 </p>
 
 <p style="clear: both;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&show_icons=true&locale=en&theme=tokyonight" alt="Manish9322" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Manish9322&show_icons=true&locale=en&theme=tokyonight" alt="Manish9322" />
 </p>
 
 
