@@ -3,7 +3,9 @@
 <h3 align="center">A passionate FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="/mnt/data/WANEELLA pixel art.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Manish9322" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Manish9322&label=Profile%20views&color=0e75b6&style=flat" alt="Manish9322" /> 
+</p>
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/m-sonawane/" target="blank">
