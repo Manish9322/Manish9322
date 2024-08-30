@@ -23,19 +23,20 @@
 - ⚡ Fun fact: ...
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish9322&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Manish9322" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manish9322&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&&theme=tokyonight" alt="Manish9322" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&show_icons=true&locale=en&theme=tokyonight" alt="Manish9322" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&&theme=tokyonight" alt="Manish9322" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish9322&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Manish9322" /></p>
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Manish9322.Manish9322" alt="Visitor Count" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manish9322&theme=tokyonight" alt="Profile Summary" />
-</p>
 
 
 
