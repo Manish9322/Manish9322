@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Manish9322" /> </p>
 
-<p align="left"> <a href="https://twitter.com/your-twitter-handle" target="blank"><img src="[https://img.shields.io/twitter/follow/your-twitter-handle?logo=twitter&style=for-the-badge](https://www.linkedin.com/in/m-sonawane/)" alt="LinkedIn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/your-twitter-handle" target="blank"><img src="[https://www.linkedin.com/in/m-sonawane/\]" alt="LinkedIn" /></a> </p>
 
 
 - 👋 Hi, I’m @Manish9322
