@@ -13,14 +13,12 @@
   </a> 
 </p>
 
-
-- 👋 Hi, I’m @Manish9322
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ - 👀 I’m interested in web development, programming, and open-source projects.
+ - 🌱 I’m currently learning web API.
+ - 💞️ I’m looking to collaborate on exciting web development projects and innovative software solutions.
+ - 📫 How to reach me: [manishsonawane3010@gmail.com]
+ - 😄 Pronouns: He/Him
+ - ⚡ Fun fact: I love exploring new technologies and finding creative ways to solve problems!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish9322&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Manish9322" /></p>
 
