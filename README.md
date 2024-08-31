@@ -69,6 +69,13 @@
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a> 
+
+<div style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1024px-Flask_logo.svg.png" alt="flask" width="40" height="40" style="filter: invert(100%);" />
+    <span style="color: white; font-family: Arial, sans-serif; font-size: 16px; margin-left: 8px;">Flask</span>
+</div>
+
+  
 </p>
 
 <br>
