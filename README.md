@@ -67,10 +67,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg" alt="windows" width="40" height="40"/> 
   </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> 
-      <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40" style="filter: invert(100%);" />
-<span style="color: white; font-family: Arial, sans-serif; font-size: 16px;">Flask</span>
-
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a> 
 </p>
 
