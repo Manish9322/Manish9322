@@ -68,6 +68,9 @@
   </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40" style="filter: invert(100%);" />
+<span style="color: white; font-family: Arial, sans-serif; font-size: 16px;">Flask</span>
+
   </a> 
 </p>
 
