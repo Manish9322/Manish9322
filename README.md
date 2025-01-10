@@ -31,7 +31,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Next 9 Skills -->
-    <img src="https://skillicons.dev/icons?i=bootstrap,flask,docker,kubernetes,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,flask,netlify,vercel" />
   </a>
 </p>
 
