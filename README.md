@@ -28,14 +28,6 @@
 </p>
 
 <br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish9322&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Manish9322" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&&theme=tokyonight" alt="Manish9322" /></p>
-
-<p style="clear: both;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Manish9322&show_icons=true&locale=en&theme=tokyonight" alt="Manish9322" />
-</p>
-
 <!--- stats (start) -->
 <table align="center">
 <tr border="none">
@@ -45,6 +37,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <td width="50%" align="center">
+
+    <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish9322&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <br></br>
   
   <!-- Contributions by Repo -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manish9322&theme=dark" alt="Contributions by Repo" />
