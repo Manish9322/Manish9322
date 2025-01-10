@@ -23,9 +23,18 @@
 <h3 align="left">Languages and Tools : </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mysql,postgres,bootstrap,python,java,php,git,github,postman,netlify,vercel,linux,windows,flask" />
+    <!-- First 9 Skills -->
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,java,postgres,postman,git" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Next 9 Skills -->
+    <img src="https://skillicons.dev/icons?i=mysql,bootstrap,flask,github,docker,kubernetes,linux,netlify,vercel" />
+  </a>
+</p>
+
 
 <br>
 
