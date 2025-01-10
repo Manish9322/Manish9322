@@ -24,14 +24,14 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- First 9 Skills -->
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,java,postgres,postman,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,java,postgres,postman,git,github,mysql,linux" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Next 9 Skills -->
-    <img src="https://skillicons.dev/icons?i=mysql,bootstrap,flask,github,docker,kubernetes,linux,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,flask,docker,kubernetes,netlify,vercel" />
   </a>
 </p>
 
