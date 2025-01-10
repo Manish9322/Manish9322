@@ -68,10 +68,9 @@
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/>
   </a> 
 </p> -->
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mysql,bootstrap,python,php,git,github,netlify,vercel,linux,windows,flask" />
   </a>
 </p>
 
