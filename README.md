@@ -69,6 +69,12 @@
   </a> 
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish9322&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Manish9322" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&&theme=tokyonight" alt="Manish9322" /></p>
