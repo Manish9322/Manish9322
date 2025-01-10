@@ -36,18 +36,28 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Manish9322&show_icons=true&locale=en&theme=tokyonight" alt="Manish9322" />
 </p>
 
-<p>
-  <!-- Top Languages -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manish9322&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <!-- GitHub Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
   
   <!-- Streak Stats -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&theme=tokyonight" alt="Streak Stats" />
-</p>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manish's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&theme=dark&hide_border=false" /> 
+</td>
 
-<p style="clear: both;">
-  <!-- General GitHub Stats -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Manish9322&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<td width="50%" align="center">
+
+  <!-- Top Languages -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+  
+</td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 
 
