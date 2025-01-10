@@ -44,11 +44,12 @@
   <!-- GitHub Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
   <br></br>
+  <td width="50%" align="center">
   
-  <!-- Streak Stats -->
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manish's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&theme=dark&hide_border=false" /> 
-</td>
+  <!-- Contributions by Repo -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manish9322&theme=dark" alt="Contributions by Repo" />
 
+</td>
 <td width="50%" align="center">
 
   <!-- Top Languages -->
@@ -58,8 +59,6 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
-
 
 <!---
 Manish9322/Manish9322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
