@@ -59,7 +59,8 @@
 </table>
 <!--- stats (end) -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&title=Languages%20Used%20in%20Repositories&langs_count=10&hide=html,css" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish9322&repo=your-repository-name" />
+
 
 
 <!---
