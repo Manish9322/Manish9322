@@ -40,23 +40,6 @@
 
 <!--- stats (start) -->
 
-<table align="center">
-  <tr border="none">
-    <td width="33%" align="center">
-      <!-- GitHub Stats -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
-    </td>
-    <td width="33%" align="center">
-      <!-- Top Languages without Frame -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&title=Languages%20Used%20in%20Repositories&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-    </td>
-    <td width="33%" align="center">
-      <!-- Top Languages with Title -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&langs_count=10&hide=html,css&title=My%20Languages" />
-    </td>
-    
-  </tr>
-</table>
 <!--- stats (end) -->
 
 <table align="center">
