@@ -46,7 +46,7 @@
   <!-- GitHub Stats -->
 <p align="center">
   <!-- Gradient Colored Stat Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&show_icons=true&count_private=true&theme=transparent&hide_title=true&bg_color=45,ff7eb3,ff758c,ff5e62" alt="Manish's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&show_icons=true&count_private=true&theme=transparent&hide_title=true&bg_color=45,ffffff,ff758c,ff5e62" alt="Manish's GitHub Stats" />
 </p>
 <br>
 
