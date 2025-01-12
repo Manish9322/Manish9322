@@ -49,7 +49,7 @@
   <br>
   
 <!-- Top Languages -->
-   <img align="center" style="margin:1rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&layout=compact&theme=radical&hide=html,css&hide_border=false&langs_count=10&title_color=ffffff&text_color=ffffff" alt="Top Languages" /></td>
+   <img align="center" style="margin:1rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&layout=compact&theme=radical&hide=html,css&hide_border=false&langs_count=10&title_color=ffffff&text_color=#A9A9A9" alt="Top Languages" /></td>
 
 <td width="50%" align="center">  
   <!-- Top Languages -->
