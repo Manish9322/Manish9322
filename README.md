@@ -62,70 +62,16 @@
       <!-- Profile Summary Card -->
       <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manish9322&theme=github" />
     </td>
-    <td width="33%" align="center">
+<!--     <td width="33%" align="center"> -->
       <!-- GitHub Trophies Card -->
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=Manish9322&theme=flat&column=3&margin-w=10&margin-h=10" />
-    </td>
+<!--       <img align="center" src="https://github-profile-trophy.vercel.app/?username=Manish9322&theme=flat&column=3&margin-w=10&margin-h=10" /> -->
+<!--     </td> -->
     <td width="33%" align="center">
       <!-- GitHub Pinned Repositories Card -->
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish9322&repo=your-repository-name" />
     </td>
   </tr>
 </table>
-
-<table align="center">
-  <tr>
-    <td width="33%" align="center">
-      <!-- GitHub Activity Overview Card -->
-      <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Manish9322&theme=github" />
-    </td>
-    <td width="33%" align="center">
-      <!-- GitHub Issues Card -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api/issues?username=Manish9322&theme=dark" />
-    </td>
-    <td width="33%" align="center">
-      <!-- GitHub Contribution Graph Card -->
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td width="33%" align="center">
-      <!-- Starred Repositories Card -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api/starred?username=Manish9322&theme=dark&hide_border=false" />
-    </td>
-    <td width="33%" align="center">
-      <!-- Top Languages Card -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&langs_count=10" />
-    </td>
-    <td width="33%" align="center">
-      <!-- GitHub Stats Card -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td width="33%" align="center">
-      <!-- Most Commit Language Card -->
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manish9322&theme=github" />
-    </td>
-    <td width="33%" align="center">
-      <!-- Languages Used in Repositories Card -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&langs_count=10&hide=html,css" />
-    </td>
-    <td width="33%" align="center">
-      <!-- Top Languages Card -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&langs_count=10" />
-    </td>
-  </tr>
-</table>
-
-
-
 
 <!---
 Manish9322/Manish9322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
