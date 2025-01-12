@@ -51,13 +51,28 @@
     <td width="33%" align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
     </td>
-    
-
-
   </tr>
 </table>
 
 <!--- stats (end) -->
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <!-- Profile Summary Card -->
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manish9322&theme=github" />
+    </td>
+    <td width="33%" align="center">
+      <!-- GitHub Trophies Card -->
+      <img align="center" src="https://github-profile-trophy.vercel.app/?username=Manish9322&theme=flat&column=3&margin-w=10&margin-h=10" />
+    </td>
+    <td width="33%" align="center">
+      <!-- GitHub Pinned Repositories Card -->
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish9322&repo=your-repository-name" />
+    </td>
+  </tr>
+</table>
+
 
 
 
