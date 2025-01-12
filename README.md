@@ -45,9 +45,10 @@
   
   <!-- GitHub Stats -->
 <p align="center">
-  <!-- Gradient Colored Stat Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&show_icons=true&count_private=true&theme=transparent&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Manish's GitHub Stats" />
+  <!-- Cyberpunk Themed Stat Card -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&show_icons=true&count_private=true&theme=transparent&hide_title=true&bg_color=30,0f0c29,302b63,24243e&title_color=00ffff&text_color=ff00ff&icon_color=00ff00" alt="Manish Sonawane's GitHub Stats" />
 </p>
+
 <br>
 
 <td width="50%" align="center">
