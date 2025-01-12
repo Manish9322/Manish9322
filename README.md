@@ -55,7 +55,8 @@
   </tr>
 </table>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Manish9322&theme=github&hide_border=true" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=Manish9322&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" />
+
 
 
 <!--- stats (end) -->
