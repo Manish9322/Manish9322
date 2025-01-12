@@ -51,7 +51,7 @@
 <img 
   align="center" 
   style="margin: 1rem;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&layout=compact&theme=radical&hide=html,css&hide_border=false&langs_count=10&bg_color=30,24243e,302b63&title_color=ffffff&text_color=ffffff" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&layout=compact&theme=dark&hide=html,css&hide_border=false&langs_count=10&bg_color=30,24243e,302b63&title_color=ffffff&text_color=ffffff" 
   alt="Top Languages" 
 />
 
