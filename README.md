@@ -90,6 +90,24 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <!-- Starred Repositories Card -->
+      <img align="center" src="https://github-readme-stats.vercel.app/api/starred?username=Manish9322&theme=dark&hide_border=false" />
+    </td>
+    <td width="33%" align="center">
+      <!-- Top Languages Card -->
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&langs_count=10" />
+    </td>
+    <td width="33%" align="center">
+      <!-- GitHub Stats Card -->
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
+    </td>
+  </tr>
+</table>
+
+
 
 
 <!---
