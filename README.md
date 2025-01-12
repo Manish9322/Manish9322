@@ -55,9 +55,7 @@
   </tr>
 </table>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Manish9322&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" />
-
-
+<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=Manish9322&count_private=true&show_icons=true&theme=radical" />
 
 <!--- stats (end) -->
 
