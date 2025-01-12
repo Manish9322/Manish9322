@@ -73,6 +73,22 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <!-- GitHub Activity Overview Card -->
+      <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Manish9322&theme=github" />
+    </td>
+    <td width="33%" align="center">
+      <!-- GitHub Issues Card -->
+      <img align="center" src="https://github-readme-stats.vercel.app/api/issues?username=Manish9322&theme=dark" />
+    </td>
+    <td width="33%" align="center">
+      <!-- GitHub Contribution Graph Card -->
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 
 
