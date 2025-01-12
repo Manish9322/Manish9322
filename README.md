@@ -44,12 +44,13 @@
 
 
 <td width="50%" align="center">
+  <!-- GitHub Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
+  <br>
   <!-- Top Languages -->
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&layout=compact&theme=radical&hide=html,css&hide_border=false&langs_count=10" alt="Top Languages" />
 
-  <!-- GitHub Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+  
  </td>
 
   
