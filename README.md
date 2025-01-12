@@ -40,7 +40,7 @@
 
 <!--- stats (start) -->
 <table align="center">
-<tr border="none"  padding:1rem>
+<tr border="none" style="padding:1rem;">
 
 
 <td width="50%" align="center">
