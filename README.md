@@ -52,7 +52,7 @@
     </td>
     <td width="33%" align="center">
       <!-- Top Languages with Title -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=radical&langs_count=10&hide=html,css&title=My%20Languages" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&langs_count=10&hide=html,css&title=My%20Languages" />
     </td>
     
   </tr>
