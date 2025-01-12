@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&theme=dark&hide_border=false&date_format=j%2Fn%5B%2FY%5D" alt="My streak stats" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Manish9322&theme=github&hide_border=true" />
 
 
 <!--- stats (end) -->
