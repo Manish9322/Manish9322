@@ -60,7 +60,7 @@
   <tr>
     <td width="33%" align="center">
       <!-- Profile Summary Card -->
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manish9322&theme=github" />
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manish9322&theme=dark" />
     </td>
 <!--     <td width="33%" align="center"> -->
       <!-- GitHub Trophies Card -->
