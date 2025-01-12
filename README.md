@@ -54,10 +54,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />  
 </td>
 
-<!-- <td width="50%" align="center"> -->
+<td width="50%" align="center">
   <!-- Top Languages -->
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&layout=compact&theme=radical&hide=html,css&hide_border=false&langs_count=10" alt="Top Languages" /> -->
-<!-- </td> -->
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&layout=compact&theme=radical&hide=html,css&hide_border=false&langs_count=10" alt="Top Languages" />
+ </td>
 
 </tr>
 
