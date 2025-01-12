@@ -55,7 +55,13 @@
   </tr>
 </table>
 
-<img align="center" src="https://github-contribution-stats.vercel.app/api/?username=Manish9322&count_private=true&show_icons=true&theme=radical" />
+
+<!-- Top languages -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=radical&langs_count=10&hide=html,css&title=My%20Languages" />
+
+<!-- WakaTime -->
+<img src="https://wakatime.com/badge/user/your_user_id.svg" />
+
 
 <!--- stats (end) -->
 
