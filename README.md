@@ -57,7 +57,7 @@
 
 
 <!-- Top languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=highcontrast&langs_count=10&hide=html,css&bg_color=000000" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=light&langs_count=10&hide=html,css&title=Languages%20I%20Use&title_color=#1f1f1f" />
 
 <!-- WakaTime -->
 <img src="https://wakatime.com/badge/user/your_user_id.svg" />
