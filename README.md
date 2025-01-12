@@ -40,10 +40,10 @@
 
 <!--- stats (start) -->
 <table align="center">
-<tr border="none">
+<tr border="none"  padding:1rem>
 
 
-<td width="50%" align="center" padding:1rem>
+<td width="50%" align="center">
   <!-- GitHub Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
   <br>
