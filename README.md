@@ -43,10 +43,10 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <p align="center">
   <!-- Cyberpunk Themed Stat Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&show_icons=true&count_private=true&theme=transparent&hide_title=true&bg_color=30,0f0c29,302b63,24243e&title_color=00ffff&text_color=ff00ff&icon_color=00ff00" alt="Manish Sonawane's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&show_icons=true&count_private=true&theme=transparent&hide_title=true&bg_color=30,302b63,24243e,0f0c29&title_color=ff00ff&text_color=00ffff&icon_color=00ff00" alt="Manish Sonawane's GitHub Stats" />
 </p>
 
 <br>
