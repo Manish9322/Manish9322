@@ -46,21 +46,19 @@
       <!-- GitHub Stats -->
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
       <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=radical&langs_count=10&hide=html,css&title=My%20Languages" />    
     </td>
     <td width="50%" align="center">  
       <!-- Top Languages -->
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&title=Languages%20Used%20in%20Repositories&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
     </td>
+    <br>
+    <td width="50%" align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=radical&langs_count=10&hide=html,css&title=My%20Languages" />    
+    </td>
+    
   </tr>
 </table>
 
-
-<!-- Top languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=light&langs_count=10&hide=html,css&title=Languages%20I%20Use&title_color=#1f1f1f" />
-
-<!-- WakaTime -->
-<img src="https://wakatime.com/badge/user/your_user_id.svg" />
 
 
 <!--- stats (end) -->
