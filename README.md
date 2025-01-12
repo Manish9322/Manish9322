@@ -47,13 +47,10 @@
   <!-- GitHub Stats -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
   <br>
+  
 <!-- Top Languages -->
-<img 
-  align="center" 
-  style="margin: 1rem;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&layout=compact&theme=dark&hide=html,css&hide_border=false&langs_count=10&&show_icons=true&bg_color=30,24243e,302b63&title_color=ffffff&text_color=ffffff" 
-  alt="Top Languages" 
-/>
+   <img align="center" style="margin:1rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&layout=compact&theme=radical&hide=html,css&hide_border=false&langs_count=10" alt="Top Languages" />
+ </td>
 
 <td width="50%" align="center">  
   <!-- Top Languages -->
