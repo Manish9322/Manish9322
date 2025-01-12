@@ -59,6 +59,9 @@
 </table>
 <!--- stats (end) -->
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&title=Languages%20Used%20in%20Repositories&langs_count=10&hide=html,css" />
+
+
 <!---
 Manish9322/Manish9322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
