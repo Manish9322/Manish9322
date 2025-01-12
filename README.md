@@ -107,6 +107,23 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <!-- Most Commit Language Card -->
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manish9322&theme=github" />
+    </td>
+    <td width="33%" align="center">
+      <!-- Languages Used in Repositories Card -->
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&langs_count=10&hide=html,css" />
+    </td>
+    <td width="33%" align="center">
+      <!-- Top Languages Card -->
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&langs_count=10" />
+    </td>
+  </tr>
+</table>
+
 
 
 
