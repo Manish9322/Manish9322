@@ -53,7 +53,8 @@
 
 <td width="50%" align="center">  
   <!-- Top Languages -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&title=Used%20Languages%20Title&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&title=Languages%20Used%20in%20Repositories&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+
 </td>
 <br><br>
 </tr>
