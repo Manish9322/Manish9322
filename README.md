@@ -46,7 +46,7 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&theme=dark&hide_border=false&date_format=j%2Fn%5B%2FY%5D" />
     </td>
     <td width="33%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=light&langs_count=10" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&langs_count=10" />
     </td>
     <td width="33%" align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
