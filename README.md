@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- First 9 Skills -->
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,flask,git,github,html,java,javascript,linux,mysql,postman,postgres,react" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,tailwindcss,flask,git,github,html,java,javascript,linux,mysql,postman,postgres,react" />
   </a>
 </p>
 
