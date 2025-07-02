@@ -21,19 +21,20 @@
  - ⚡ Fun fact: I love exploring new technologies and finding creative ways to solve problems!
 
 <h3 align="left">Languages and Tools : </h3>
+<!-- First Row: Frontend (Descending) + Backend + Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- First 9 Skills -->
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,mongodb,express,tailwindcss,git,github,html,java,javascript,mysql,postgres,vps" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwindcss,bootstrap,javascript,css,html,express,flask,python,java" />
   </a>
 </p>
 
+<!-- Second Row: Databases (mongo first) + DevOps/Tools -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Next 9 Skills -->
-    <img src="https://skillicons.dev/icons?i=postman,netlify,flask,python,vercel,css,bootstrap,linux" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,postman,netlify,vercel,vps,linux" />
   </a>
 </p>
+
 
 
 <br>
