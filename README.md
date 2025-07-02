@@ -24,7 +24,7 @@
 <!-- First Row: Frontend (Descending) + Backend + Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwindcss,bootstrap,javascript,css,html,express,flask,python,java," />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwindcss,bootstrap,javascript,css,html,express,flask,python,java" />
   </a>
 </p>
 
