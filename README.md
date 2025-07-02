@@ -31,7 +31,7 @@
 <!-- Second Row: Databases (mongo first) + DevOps/Tools -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,postman,netlify,vercel,vps,linux" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,postman,netlify,vercel,linux" />
   </a>
 </p>
 
