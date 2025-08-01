@@ -65,7 +65,7 @@
     </td>
     <td width="33%" align="center">
       <!-- GitHub Pinned Repositories Card -->
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish9322&theme=dark&repo=Billing-Software" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish9322&theme=dark&repo=Fleet-Box" />
     </td>
   </tr>
 </table>
