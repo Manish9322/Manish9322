@@ -1,7 +1,7 @@
 ![Image](https://raw.githubusercontent.com/Manish9322/Readme_Image/main/5927911.gif)
 
 <h1 align="center">Hi 👋, I'm Manish sonawane</h1>
-<h3 align="center">Self-Motivated FullStack Developer</h3>
+<h3 align="center">Self-Motivated Software Developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Manish9322&label=Profile%20views&color=0e75b6&style=flat" alt="Manish9322" /> 
@@ -14,7 +14,7 @@
 </p>
 
  - 👀 I’m interested in web development, programming, and open-source projects.
- - 🌱 I’m currently learning API Manipulation.
+ - 🌱 I’m currently learning AWS.
  - 💞️ I’m looking to collaborate on exciting web development projects and innovative software solutions.
  - 📫 How to reach me: [manishsonawane3010@gmail.com]
  - 😄 Pronouns: He/Him
