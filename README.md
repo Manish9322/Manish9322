@@ -15,7 +15,7 @@
 
  - 👀 I’m interested in web development, programming, and open-source projects.
  - 🌱 I’m currently learning AWS.
- - 💞️ I’m looking to collaborate on exciting web development projects and innovative software solutions.
+ - 🤝 I’m looking to collaborate on exciting web development projects and innovative software solutions.
  - 📫 How to reach me: [manishsonawane3010@gmail.com]
  - 😄 Pronouns: He/Him
  - ⚡ Fun fact: I love exploring new technologies and finding creative ways to solve problems!
