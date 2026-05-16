@@ -1,7 +1,7 @@
 ![Image](https://raw.githubusercontent.com/Manish9322/Readme_Image/main/5927911.gif)
 
 <h1 align="center">Hi 👋, I'm Manish sonawane</h1>
-<h3 align="center">Self-Motivated Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Manish9322&label=Profile%20views&color=0e75b6&style=flat" alt="Manish9322" /> 
