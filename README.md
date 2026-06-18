@@ -44,8 +44,7 @@
 <table align="center">
   <tr>
 <td width="33%" align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manish9322&theme=dark&hide_border=false&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak Stats" />
-</td>
+<img align="center" src="https://streak-stats.demolab.com/?user=Manish9322&theme=dark&hide_border=false&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak Stats" /></td>
     <td width="33%" align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish9322&theme=dark&langs_count=10" />
     </td>
