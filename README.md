@@ -23,19 +23,19 @@
 <h3 align="left">Languages and Tools : </h3>
 <!-- First Row: Frontend (Descending) + Backend + Languages -->
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,postgres,turborepo,redis,nginx,docker,redux,ts,shadcn,nextjs,git,github,mongoose" />
+    <img src="https://skillicons.dev/icons?i=aws,postgres,redis,nginx,docker,redux,ts,nextjs,git,github,mongoose,mongodb,mysql" />
   </a>
 </p>
 
-<!-- Second Row: Remaining skills in LinkedIn order -->
+<!-- Second Row: Remaining skills in LinkedIn order + existing skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postman,npm,express,nodejs,tailwind,react,js,flask,mysql,python,java,wordpress" />
+    <img src="https://skillicons.dev/icons?i=postman,npm,express,nodejs,tailwind,react,js,flask,python,java,wordpress,jquery,bootstrap,css,html,netlify,vercel,linux" />
   </a>
 </p>
-
 
 
 <br>
