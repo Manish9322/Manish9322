@@ -22,16 +22,17 @@
 
 <h3 align="left">Languages and Tools : </h3>
 <!-- First Row: Frontend (Descending) + Backend + Languages -->
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,turbo,redis,nginx,docker,nextjs,react,redux,typescript,javascript,tailwindcss,flask,python,java" />
+    <img src="https://skillicons.dev/icons?i=aws,postgres,turborepo,redis,nginx,docker,redux,ts,shadcn,nextjs,git,github,mongoose" />
   </a>
 </p>
 
-<!-- Second Row: Databases (mongo first) + DevOps/Tools -->
+<!-- Second Row: Remaining skills in LinkedIn order -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,postman,netlify,vercel,linux,bootstrap,express,css,html" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postman,npm,express,nodejs,tailwind,react,js,flask,mysql,python,java,wordpress" />
   </a>
 </p>
 
