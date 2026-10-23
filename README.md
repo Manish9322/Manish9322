@@ -21,22 +21,26 @@
  - ⚡ Fun fact: I love exploring new technologies and finding creative ways to solve problems!
 
 <h3 align="left">Languages and Tools : </h3>
-<!-- First Row: Frontend (Descending) + Backend + Languages -->
-
-
+<!-- First Row: Cloud, DevOps, State Management, and Version Control -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,postgres,redis,nginx,docker,redux,ts,nextjs,git,github,mongodb,mysql,postman,npm,express" />
+    <img src="https://skillicons.dev/icons?i=aws,postgres,redis,nginx,docker,redux,ts,nextjs,git,github,mongodb,mysql" />
   </a>
 </p>
 
-<!-- Second Row: Remaining skills in LinkedIn order + existing skills -->
+<!-- Second Row: Backend, Frontend, and Programming Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,react,js,flask,python,java,wordpress,jquery,bootstrap,css,html,netlify,vercel,linux" />
+    <img src="https://skillicons.dev/icons?i=postman,npm,express,nodejs,tailwind,react,js,flask,python,java,wordpress,jquery" />
   </a>
 </p>
 
+<!-- Third Row: Styling and Deployment Platforms -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,netlify,vercel,linux" />
+  </a>
+</p>
 
 <br>
 
