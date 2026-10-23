@@ -24,14 +24,14 @@
 <!-- First Row: Frontend (Descending) + Backend + Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,typescript,javascript,tailwindcss,bootstrap,css,html,express,flask,python,java" />
+    <img src="https://skillicons.dev/icons?i=aws,turborepo,redis,nginx,docker,nextjs,react,redux,typescript,javascript,tailwindcss,flask,python,java" />
   </a>
 </p>
 
 <!-- Second Row: Databases (mongo first) + DevOps/Tools -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,postman,netlify,vercel,linux" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,postman,netlify,vercel,linux,bootstrap,express,css,html" />
   </a>
 </p>
 
