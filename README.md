@@ -26,14 +26,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,postgres,redis,nginx,docker,redux,ts,nextjs,git,github,mongoose,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=aws,postgres,redis,nginx,docker,redux,ts,nextjs,git,mongoose,mongodb,mysql,postman," />
   </a>
 </p>
 
 <!-- Second Row: Remaining skills in LinkedIn order + existing skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,npm,express,nodejs,tailwind,react,js,flask,python,java,wordpress,jquery,bootstrap,css,html,netlify,vercel,linux" />
+    <img src="https://skillicons.dev/icons?i=npm,express,nodejs,tailwind,react,js,flask,python,java,wordpress,jquery,bootstrap,css,html,netlify,vercel,linux" />
   </a>
 </p>
 
