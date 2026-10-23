@@ -20,36 +20,20 @@
  - 😄 Pronouns: He/Him
  - ⚡ Fun fact: I love exploring new technologies and finding creative ways to solve problems!
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-<!-- First Row: Frontend + Backend + Programming Languages -->
+<h3 align="left">Languages and Tools : </h3>
+<!-- First Row: Frontend (Descending) + Backend + Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,bootstrap,css,html,shadcn,express,nodejs,flask,python,java,wordpress,jquery" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,typescript,javascript,tailwindcss,bootstrap,css,html,express,flask,python,java" />
   </a>
 </p>
 
-<!-- Second Row: Databases + Cloud + DevOps + Development Tools -->
+<!-- Second Row: Databases (mongo first) + DevOps/Tools -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,docker,nginx,linux,git,github,postman,npm,turborepo" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,postman,netlify,vercel,linux" />
   </a>
 </p>
-
-<!-- Additional Skills without dedicated Skill Icons -->
-<p align="center">
-  <img src="https://img.shields.io/badge/SSR-Server--Side_Rendering-333333?style=flat-square" alt="SSR" />
-  <img src="https://img.shields.io/badge/VPS-Virtual_Private_Server-444444?style=flat-square" alt="VPS" />
-  <img src="https://img.shields.io/badge/RTK-Redux_Toolkit-764ABC?style=flat-square" alt="RTK" />
-  <img src="https://img.shields.io/badge/Mongoose-MongoDB_ ODM-880000?style=flat-square" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/RBAC-Access_Control-444444?style=flat-square" alt="RBAC" />
-  <img src="https://img.shields.io/badge/User_Authentication-Security-444444?style=flat-square" alt="User Authentication" />
-  <img src="https://img.shields.io/badge/REST_APIs-Web_Services-336791?style=flat-square" alt="REST APIs and Web Services" />
-  <img src="https://img.shields.io/badge/SQL-Structured_Query_Language-336791?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/Version_Control-Git_Workflows-F05032?style=flat-square" alt="Version Control" />
-</p>
-
 
 
 
@@ -86,6 +70,6 @@
 </table>
 
 <!---
-Manish9322/Manish9322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Manish9322/Manish9322 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
