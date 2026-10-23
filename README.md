@@ -24,7 +24,7 @@
 <!-- First Row: Frontend (Descending) + Backend + Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,turbopack,redis,nginx,docker,nextjs,react,redux,typescript,javascript,tailwindcss,flask,python,java" />
+    <img src="https://skillicons.dev/icons?i=aws,turbo,redis,nginx,docker,nextjs,react,redux,typescript,javascript,tailwindcss,flask,python,java" />
   </a>
 </p>
 
