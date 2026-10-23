@@ -31,7 +31,7 @@
 <!-- Second Row: Remaining skills in LinkedIn order + existing skills -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,react,js,flask,python,java,wordpress,jquery,bootstrap,css,html,netlify,vercel,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,react,js,flask,python,java,wordpress,jquery,bootstrap,css,html,vercel,linux" />
   </a>
 </p>
 
