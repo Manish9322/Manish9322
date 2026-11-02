@@ -37,17 +37,18 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 - Multi-tenant workflows, business logic implementation, and enterprise application modules.
 - System integration, workflow automation, performance evaluation, and application functionality enhancement.
 
-## Technology
+## Technology 
 
-<table>
-<tr><th align="left">Category</th><th align="left">Skills</th></tr>
-<tr><td><strong>Languages</strong></td><td><img src="https://skillicons.dev/icons?i=ts,js,python,java" /></td></tr>
-<tr><td><strong>Backend</strong></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,flask" /></td></tr>
-<tr><td><strong>Frontend</strong></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery,css,html" /></td></tr>
-<tr><td><strong>Databases</strong></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" /></td></tr>
-<tr><td><strong>DevOps & Tools</strong></td><td><img src="https://skillicons.dev/icons?i=git,github,postman,docker,nginx,npm,redux,wordpress" /></td></tr>
-<tr><td><strong>Cloud & Platforms</strong></td><td><img src="https://skillicons.dev/icons?i=aws,vercel,linux" /></td></tr>
-</table>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,postgres,redis,nginx,docker,redux,ts,nextjs,git,github,mongodb,mysql,postman,npm,express" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,react,js,flask,python,java,wordpress,jquery,bootstrap,css,html,vercel,linux" />
+  </a>
+</p>
 
 ## Selected Work
 
