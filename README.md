@@ -17,12 +17,12 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 
 
 <table>
-<tr><td><img src="https://api.iconify.design/lucide/eye.svg?color=%23000000" width="15" valign="middle" />&nbsp; I’m interested in web development, programming, and open-source projects.</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide/sprout.svg?color=%23000000" width="15" valign="middle" />&nbsp; I’m currently learning AWS.</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide/handshake.svg?color=%23000000" width="15" valign="middle" />&nbsp; I’m looking to collaborate on exciting web development projects and innovative software solutions.</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide/mail.svg?color=%23000000" width="15" valign="middle" />&nbsp; How to reach me : <a href="mailto:manishsonawane3010@gmail.com">manishsonawane3010@gmail.com</a></td></tr>
-<tr><td><img src="https://api.iconify.design/lucide/user-round.svg?color=%23000000" width="15" valign="middle" />&nbsp; Pronouns : He/Him</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide/zap.svg?color=%23000000" width="15" valign="middle" />&nbsp; Fun fact : I love exploring new technologies and finding creative ways to solve problems.</td></tr>
+<tr><td><img src="https://api.iconify.design/lucide/eye.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; I’m interested in web development, programming, and open-source projects.</td></tr>
+<tr><td><img src="https://api.iconify.design/lucide/sprout.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; I’m currently learning AWS.</td></tr>
+<tr><td><img src="https://api.iconify.design/lucide/handshake.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; I’m looking to collaborate on exciting web development projects and innovative software solutions.</td></tr>
+<tr><td><img src="https://api.iconify.design/lucide/mail.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; How to reach me : <a href="mailto:manishsonawane3010@gmail.com">manishsonawane3010@gmail.com</a></td></tr>
+<tr><td><img src="https://api.iconify.design/lucide/user-round.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; Pronouns : He/Him</td></tr>
+<tr><td><img src="https://api.iconify.design/lucide/zap.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; Fun fact : I love exploring new technologies and finding creative ways to solve problems.</td></tr>
 </table>
 
 ## Technology
