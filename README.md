@@ -9,12 +9,10 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 ## About
 
 <table>
-<tr><th align="left">Profile</th><th align="left" align="left">Expertise</th><th align="left">Current status</th></tr>
+<tr><th align="left">Profile</th><th align="left">Expertise</th><th align="left">Current status</th></tr>
 <tr><td>Mumbai, India</td><td>Full Stack Engineering</td><td>Open to Opportunities</td></tr>
 <tr><td>1.5 Years Experience</td><td>Frontend / Backend / Database / Deployment</td><td>Updated November 01, 2026</td></tr>
 </table>
-
-
 
 <table>
 <tr><td><img src="https://api.iconify.design/lucide/eye.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; I’m interested in web development, programming, and open-source projects.</td></tr>
@@ -24,6 +22,20 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 <tr><td><img src="https://api.iconify.design/lucide/user-round.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; Pronouns : He/Him</td></tr>
 <tr><td><img src="https://api.iconify.design/lucide/zap.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; Fun fact : I love exploring new technologies and finding creative ways to solve problems.</td></tr>
 </table>
+
+## Experience
+
+<table>
+<tr><th align="left">Position</th><th align="left">Organization</th><th align="left">Period</th></tr>
+<tr><td><strong>Full Stack Developer</strong></td><td>Element Tree</td><td>Mar 2026 – Present</td></tr>
+<tr><td><strong>Software Developer</strong></td><td>Paarsh Infotech Pvt. Ltd.</td><td>Jan 2025 – Feb 2026</td></tr>
+</table>
+
+**Areas of Responsibility**
+
+- Full-stack application development, including frontend interfaces, backend APIs, and database integration.
+- Multi-tenant workflows, business logic implementation, and enterprise application modules.
+- System integration, workflow automation, performance evaluation, and application functionality enhancement.
 
 ## Technology
 
@@ -62,20 +74,6 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 </tr>
 </table>
 
-## Experience
-
-<table>
-<tr><th align="left">Position</th><th align="left">Organization</th><th align="left">Period</th></tr>
-<tr><td><strong>Full Stack Developer</strong></td><td>Element Tree</td><td>Mar 2026 – Present</td></tr>
-<tr><td><strong>Software Developer</strong></td><td>Paarsh Infotech Pvt. Ltd.</td><td>Jan 2025 – Feb 2026</td></tr>
-</table>
-
-**Areas of Responsibility**
-
-- Full-stack application development, including frontend interfaces, backend APIs, and database integration.
-- Multi-tenant workflows, business logic implementation, and enterprise application modules.
-- System integration, workflow automation, performance evaluation, and application functionality enhancement.
-
 ## Developer Activity
 
 <!--- stats (start) -->
@@ -106,12 +104,6 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 </tr>
 </table>
 
-## Find Me Online
-
-<table>
-<tr><th align="left">GitHub</th><th align="left">LinkedIn</th><th align="left">Portfolio</th></tr>
-<tr><td><a href="https://github.com/Manish9322">View Profile</a></td><td><a href="https://www.linkedin.com/in/m-sonawane/">Connect</a></td><td><a href="https://manish-sonawane.vercel.app">Visit Website</a></td></tr>
-</table>
 
 ## Principles
 
@@ -119,3 +111,11 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 - **Simplicity** - Choosing straightforward, efficient solutions without introducing unnecessary complexity.
 - **Reliability** - Building consistent, maintainable applications that perform dependably across different scenarios.
 - **Ownership** - Taking responsibility for technical decisions, code quality, and delivering meaningful results.
+
+
+## Find Me Online
+
+<table>
+<tr><th align="left">GitHub</th><th align="left">LinkedIn</th><th align="left">Portfolio</th></tr>
+<tr><td><a href="https://github.com/Manish9322">View Profile</a></td><td><a href="https://www.linkedin.com/in/m-sonawane/">Connect</a></td><td><a href="https://manish-sonawane.vercel.app">Visit Website</a></td></tr>
+</table>
