@@ -11,16 +11,16 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 <table>
 <tr><th align="left">Profile</th><th align="left">Expertise</th><th align="left">Current status</th></tr>
 <tr><td>Mumbai, India</td><td>Full Stack Engineering</td><td>Open to Opportunities</td></tr>
-<tr><td>1.5 Years Experience</td><td>Frontend / Backend / Database / Deployment</td><td>Updated November 01, 2026</td></tr>
+<tr><td>1.9 Years Experience</td><td>Frontend / Backend / Database / Deployment</td><td>Updated November 01, 2026</td></tr>
 </table>
 
 <table>
 <tr><td><img src="https://api.iconify.design/lucide/eye.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; I’m interested in web development, programming, and open-source projects.</td></tr>
 <tr><td><img src="https://api.iconify.design/lucide/sprout.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; I’m currently learning AWS.</td></tr>
 <tr><td><img src="https://api.iconify.design/lucide/handshake.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; I’m looking to collaborate on exciting web development projects and innovative software solutions.</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide/mail.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; How to reach me : <a href="mailto:manishsonawane3010@gmail.com">manishsonawane3010@gmail.com</a></td></tr>
-<tr><td><img src="https://api.iconify.design/lucide/user-round.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; Pronouns : He/Him</td></tr>
-<tr><td><img src="https://api.iconify.design/lucide/zap.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; Fun fact : I love exploring new technologies and finding creative ways to solve problems.</td></tr>
+<tr><td><img src="https://api.iconify.design/lucide/mail.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; How to reach me - <a href="mailto:manishsonawane3010@gmail.com">manishsonawane3010@gmail.com</a></td></tr>
+<tr><td><img src="https://api.iconify.design/lucide/user-round.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; Pronouns - He/Him</td></tr>
+<tr><td><img src="https://api.iconify.design/lucide/zap.svg?color=%23FFFFFF" width="15" valign="middle" />&nbsp; Fun fact - I love exploring new technologies and finding creative ways to solve problems.</td></tr>
 </table>
 
 ## Experience
@@ -37,6 +37,7 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 - Multi-tenant workflows, business logic implementation, and enterprise application modules.
 - System integration, workflow automation, performance evaluation, and application functionality enhancement.
 
+
 ## Technology 
 
 <p align="left">
@@ -44,11 +45,14 @@ My approach combines clear architecture, deliberate technical decisions, and an 
     <img src="https://skillicons.dev/icons?i=aws,postgres,redis,nginx,docker,redux,ts,nextjs,git,github,mongodb,mysql,postman,npm,express" />
   </a>
 </p>
+
+<!-- Second Row: Remaining skills in LinkedIn order + existing skills -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,tailwind,react,js,flask,python,java,wordpress,jquery,bootstrap,css,html,vercel,linux" />
   </a>
 </p>
+
 
 ## Selected Work
 
@@ -64,9 +68,9 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 <td>React-based weather application delivering real-time weather updates through an online API.</td>
 </tr>
 <tr>
-<td><strong>Stack:</strong> Next.js / Turborepo / React</td>
-<td><strong>Stack:</strong> React.js / JavaScript / HTML / CSS</td>
-<td><strong>Stack:</strong> React.js / JavaScript / Weather API</td>
+<td><strong>Stack -</strong> Next.js / Turborepo / React</td>
+<td><strong>Stack -</strong> React.js / JavaScript / HTML / CSS</td>
+<td><strong>Stack -</strong> React.js / JavaScript / Weather API</td>
 </tr>
 <tr>
 <td><a href="https://github.com/Manish9322/Monorepo">Repository</a></td>
