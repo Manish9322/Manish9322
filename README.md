@@ -83,28 +83,26 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 
 <!--- stats (start) -->
 
-<table align="start">
+<table>
 <tr>
-<td width="33%" align="center">
-<img align="center" src="https://streak-stats.demolab.com/?user=Manish9322&theme=dark&hide_border=false&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak Stats" />
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com/?user=Manish9322&theme=dark&hide_border=false&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak Stats" />
 </td>
-<td width="33%" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" />
+<td width="50%" align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=Manish9322&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
 </td>
 </tr>
 </table>
 
 <!--- stats (end) -->
 
-<table align="start">
+<table>
 <tr>
-<td width="33%" align="center">
-<!-- Profile Summary Card -->
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manish9322&theme=dark" />
+<td width="50%" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manish9322&theme=dark" alt="Profile Summary" />
 </td>
-<td width="33%" align="center">
-<!-- GitHub Pinned Repositories Card -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Manish9322&theme=dark&repo=Monorepo" />
+<td width="50%" align="center">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Manish9322&theme=dark&repo=Monorepo" alt="Pinned Repository" />
 </td>
 </tr>
 </table>
