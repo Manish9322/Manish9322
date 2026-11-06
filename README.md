@@ -11,7 +11,7 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 <table>
 <tr><th align="left">Profile</th><th align="left">Expertise</th><th align="left">Current status</th></tr>
 <tr><td>Mumbai, India</td><td>Full Stack Engineering</td><td>Open to Opportunities</td></tr>
-<tr><td>1.9 Years Experience</td><td>Frontend / Backend / Database / Deployment</td><td>Updated November 01, 2026</td></tr>
+<tr><td>1.75 Years Experience</td><td>Frontend / Backend / Database / Deployment</td><td>Updated November 01, 2026</td></tr>
 </table>
 
 <table>
