@@ -60,7 +60,7 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 <tr>
 <th align="left">01 / Monorepo</th>
 <th align="left">02 / Stopwatch</th>
-<th align="left">03 / Tempcast</th>
+<th align="left">03 / Volumetric Particle Orb</th>
 </tr>
 <tr>
 <td>Scalable Next.js monorepo featuring web, CRM, and admin applications with shared packages.</td>
@@ -75,7 +75,7 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 <tr>
 <td><a href="https://github.com/Manish9322/Monorepo">Repository</a></td>
 <td><a href="https://github.com/Manish9322/Stopwatch-App">Repository</a> / <a href="https://manish9322.github.io/Stopwatch-App/">Check Live</a></td>
-<td><a href="https://github.com/Manish9322/Tempcast">Repository</a></td>
+<td><a href="https://github.com/Manish9322/volumetric-particle-orb">Repository</a> / <a href="https://particle-orb.vercel.app/">Check Live</a></td>
 </tr>
 </table>
 
