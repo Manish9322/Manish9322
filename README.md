@@ -65,12 +65,12 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 <tr>
 <td>Scalable Next.js monorepo featuring web, CRM, and admin applications with shared packages.</td>
 <td>Lightweight React stopwatch application offering precise time tracking through a simple interface.</td>
-<td>React-based weather application delivering real-time weather updates through an online API.</td>
+<td>Interactive 3D three-layer monochrome volumetric particle sphere.</td>
 </tr>
 <tr>
 <td><strong>Stack -</strong> Next.js / Turborepo / React</td>
 <td><strong>Stack -</strong> React.js / JavaScript / HTML / CSS</td>
-<td><strong>Stack -</strong> React.js / JavaScript / Weather API</td>
+<td><strong>Stack -</strong> Next.js / TypeScript / React Three Fiber</td>
 </tr>
 <tr>
 <td><a href="https://github.com/Manish9322/Monorepo">Repository</a></td>
