@@ -59,12 +59,12 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 <table>
 <tr>
 <th align="left">01 / Monorepo</th>
-<th align="left">02 / Stopwatch</th>
+<th align="left">02 / A Black Hole</th>
 <th align="left">03 / Volumetric Particle Orb</th>
 </tr>
 <tr>
 <td>Scalable Next.js monorepo featuring web, CRM, and admin applications with shared packages.</td>
-<td>Lightweight React stopwatch application offering precise time tracking through a simple interface.</td>
+<td>Interactive 3D black hole simulation featuring real-time gravitational lensing and a companion astrophysics guide.</td>
 <td>Interactive 3D three-layer monochrome volumetric particle sphere.</td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 <tr>
 <td><a href="https://github.com/Manish9322/Monorepo">Repository</a></td>
 <td><a href="https://github.com/Manish9322/Stopwatch-App">Repository</a> / <a href="https://manish9322.github.io/Stopwatch-App/">Check Live</a></td>
-<td><a href="https://github.com/Manish9322/volumetric-particle-orb">Repository</a> / <a href="https://particle-orb.vercel.app/">Check Live</a></td>
+<td><a href="https://github.com/Manish9322/a-black-hole">Repository</a> / <a href="https://ablackhole.vercel.app/">Check Live</a></td>
 </tr>
 </table>
 
