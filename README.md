@@ -74,8 +74,8 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 </tr>
 <tr>
 <td><a href="https://github.com/Manish9322/Monorepo">Repository</a></td>
-<td><a href="https://github.com/Manish9322/Stopwatch-App">Repository</a> / <a href="https://manish9322.github.io/Stopwatch-App/">Check Live</a></td>
 <td><a href="https://github.com/Manish9322/a-black-hole">Repository</a> / <a href="https://ablackhole.vercel.app/">Check Live</a></td>
+<td><a href="https://github.com/Manish9322/volumetric-particle-orb">Repository</a> / <a href="https://particle-orb.vercel.app/">Check Live</a></td>
 </tr>
 </table>
 
