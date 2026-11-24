@@ -69,7 +69,7 @@ My approach combines clear architecture, deliberate technical decisions, and an 
 </tr>
 <tr>
 <td><strong>Stack -</strong> Next.js / Turborepo / React</td>
-<td><strong>Stack -</strong> React.js / JavaScript / HTML / CSS</td>
+<td><strong>Stack -</strong> Next.js / Three.js / GLSL shaders</td>
 <td><strong>Stack -</strong> Next.js / TypeScript / React Three Fiber</td>
 </tr>
 <tr>
